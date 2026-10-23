@@ -1,0 +1,6 @@
+{
+  "name": "T Mobiles — Mobile Purchase, IMEI Inventory, Billing & Sales System",
+  "description": "Complete mobile phone trading business management system for T Mobiles with IMEI inventory tracking, supplier purchases, POS sales billing, QR code generation, profit & loss accounting, and role-based access control.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
